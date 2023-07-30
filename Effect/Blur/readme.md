@@ -6,4 +6,5 @@ enable:
 >
 >[BlurBehindEffect]
 >enabled=false
+
 —https://askubuntu.com/questions/1173618/how-to-make-kde-plasma-taskbar-panel-transparent
